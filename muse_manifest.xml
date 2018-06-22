@@ -1,0 +1,353 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="gyq99.com" resolutions="1x,2x" timestamp="1529588071743">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="171039246" ref="index"/>
+    <file name="nomq_index.css" crc="440567632" ref="index"/>
+    <file name="geren.css" crc="462088424" ref="geren"/>
+    <file name="nomq_geren.css" crc="4011014056" ref="geren"/>
+    <file name="zuopinji.css" crc="57814196" ref="zuopinji"/>
+    <file name="nomq_zuopinji.css" crc="153150816" ref="zuopinji"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:zuopinji:geren"/>
+    <file name="museutils.js" crc="163421577" ref="index:zuopinji:geren"/>
+    <file name="whatinput.js" crc="86476730" ref="index:zuopinji:geren"/>
+    <file name="museconfig.js" crc="168988563" ref="index:zuopinji:geren"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:zuopinji:geren"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:zuopinji:geren"/>
+    <file name="require.js" crc="244322403" ref="index:zuopinji:geren"/>
+    <file name="webpro.js" crc="3848665353" ref="zuopinji"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="zuopinji"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="zuopinji"/>
+    <file name="touchswipe.js" crc="404375771" ref="zuopinji"/>
+  </folder>
+  <folder name="images">
+    <file name="hengxian@2x.png" crc="186387078" seo="true" ref="index"/>
+    <file name="hengxian@2x_2x.png" crc="186387078" seo="true" ref="index"/>
+    <file name="hengxian2@2x.png" crc="186387078" seo="true" ref="index"/>
+    <file name="hengxian2@2x_2x.png" crc="186387078" seo="true" ref="index"/>
+    <file name="dajuxing@2x.jpg" crc="305920443" seo="true" ref="index"/>
+    <file name="tuxiang@2x.png" crc="426250629" seo="true" ref="index"/>
+    <file name="tuxiang2@2x.png" crc="393025435" seo="true" ref="index"/>
+    <file name="design@2x.png" crc="3899957304" seo="true" ref="index"/>
+    <file name="design@2x_2x.png" crc="3899957304" seo="true" ref="index"/>
+    <file name="fangxing1@2x.jpg" crc="4106330530" seo="true" ref="index:zuopinji"/>
+    <file name="fangxing1@2x_2x.jpg" crc="3807534202" seo="true" ref="index:zuopinji"/>
+    <file name="juxing1@2x.jpg" crc="3763548660" seo="true" ref="index:zuopinji"/>
+    <file name="juxing1@2x_2x.jpg" crc="184693411" seo="true" ref="index:zuopinji"/>
+    <file name="home@2x.png" crc="76292549" seo="true" ref="index:zuopinji"/>
+    <file name="home@2x_2x.png" crc="414216738" seo="true" ref="index:zuopinji"/>
+    <file name="200- bolang@2x.png" crc="269159529" seo="true" ref="index"/>
+    <file name="works@2x.png" crc="3882367302" seo="true" ref="index:zuopinji"/>
+    <file name="hengxian1@2x.png" crc="409473867" seo="true" ref="index"/>
+    <file name="hengxian1@2x_2x.png" crc="409473867" seo="true" ref="index"/>
+    <file name="hengxian3@2x.png" crc="4077752042" seo="true" ref="index"/>
+    <file name="hengxian3@2x_2x.png" crc="4077752042" seo="true" ref="index"/>
+    <file name="shuohua@2x.png" crc="4170333473" seo="true" ref="index:zuopinji"/>
+    <file name="shuohua@2x_2x.png" crc="319188959" seo="true" ref="index:zuopinji"/>
+    <file name="geren@2x.png" crc="3961732423" seo="true" ref="index:zuopinji"/>
+    <file name="geren@2x_2x.png" crc="3780394524" seo="true" ref="index:zuopinji"/>
+    <file name="xiaonvhai@2x.png" crc="288754810" seo="true" ref="index"/>
+    <file name="xiaonvhai@2x_2x.png" crc="3764240100" seo="true" ref="index"/>
+    <file name="changtiao@2x-crop-u283.png" crc="231225667" ref="index"/>
+    <file name="tuoyuan2@2x.png" crc="3831771703" seo="true" ref="index"/>
+    <file name="tuoyuan2@2x_2x.png" crc="4203524233" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x.png" crc="4183605911" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x_2x.png" crc="4183605911" seo="true" ref="index"/>
+    <file name="d@2x.png" crc="2220057" seo="true" ref="index"/>
+    <file name="d@2x_2x.png" crc="3986211724" seo="true" ref="index"/>
+    <file name="e@2x.png" crc="4243500119" seo="true" ref="index"/>
+    <file name="e@2x_2x.png" crc="194758978" seo="true" ref="index"/>
+    <file name="s@2x.png" crc="3805770892" seo="true" ref="index"/>
+    <file name="s@2x_2x.png" crc="341960766" seo="true" ref="index"/>
+    <file name="i@2x.png" crc="4085659579" seo="true" ref="index"/>
+    <file name="i@2x_2x.png" crc="4252442681" seo="true" ref="index"/>
+    <file name="g@2x.png" crc="4004986381" seo="true" ref="index"/>
+    <file name="g@2x_2x.png" crc="4048093479" seo="true" ref="index"/>
+    <file name="n@2x.png" crc="292353807" seo="true" ref="index"/>
+    <file name="tuxiang@2x681x120.png" crc="72636771" seo="true" ref="index"/>
+    <file name="tuxiang2@2x680x187.png" crc="3926292520" seo="true" ref="index"/>
+    <file name="200- bolang@2x600x74.png" crc="269159529" seo="true" ref="index"/>
+    <file name="changtiao@2x-crop-u2832.png" crc="4184161916" ref="index"/>
+    <file name="tuxiang@2x494x87.png" crc="495233817" seo="true" ref="index"/>
+    <file name="tuxiang2@2x493x136.png" crc="118018663" seo="true" ref="index"/>
+    <file name="fangxing1@2x72x66.jpg" crc="503102974" seo="true" ref="index"/>
+    <file name="fangxing1@2x72x66_2x.jpg" crc="295602826" seo="true" ref="index"/>
+    <file name="juxing1@2x73x66.jpg" crc="391506214" seo="true" ref="index"/>
+    <file name="juxing1@2x73x66_2x.jpg" crc="3871709052" seo="true" ref="index"/>
+    <file name="fangxing1@2x72x65.jpg" crc="503102974" seo="true" ref="index"/>
+    <file name="fangxing1@2x72x65_2x.jpg" crc="295602826" seo="true" ref="index"/>
+    <file name="home@2x31x31.png" crc="4192956264" seo="true" ref="index"/>
+    <file name="home@2x31x31_2x.png" crc="152980404" seo="true" ref="index"/>
+    <file name="works@2x29x29.png" crc="4191711550" seo="true" ref="index"/>
+    <file name="geren@2x26x26.png" crc="4202441495" seo="true" ref="index"/>
+    <file name="geren@2x26x26_2x.png" crc="4016646080" seo="true" ref="index"/>
+    <file name="shuohua@2x38x25.png" crc="500378145" seo="true" ref="index"/>
+    <file name="shuohua@2x38x25_2x.png" crc="4011109265" seo="true" ref="index"/>
+    <file name="hengxian1@2x360x3.png" crc="409473867" seo="true" ref="index"/>
+    <file name="hengxian1@2x360x3_2x.png" crc="409473867" seo="true" ref="index"/>
+    <file name="xiaonvhai@2x176x242.png" crc="4142424386" seo="true" ref="index"/>
+    <file name="xiaonvhai@2x176x242_2x.png" crc="62701868" seo="true" ref="index"/>
+    <file name="200- bolang@2x560x74.png" crc="269159529" seo="true" ref="index"/>
+    <file name="changtiao@2x1024x80.png" crc="279000747" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x158x165.png" crc="4193955211" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x158x165_2x.png" crc="4183605911" seo="true" ref="index"/>
+    <file name="hengxian2@2x650x4.png" crc="186387078" seo="true" ref="index"/>
+    <file name="hengxian2@2x650x4_2x.png" crc="186387078" seo="true" ref="index"/>
+    <file name="dajuxing@2x-crop-u182.jpg" crc="4200907161" ref="index"/>
+    <file name="tuxiang@2x400x70.png" crc="396161974" seo="true" ref="index"/>
+    <file name="tuxiang2@2x398x110.png" crc="209623267" seo="true" ref="index"/>
+    <file name="design@2x90x494.png" crc="3899957304" seo="true" ref="index"/>
+    <file name="design@2x90x494_2x.png" crc="3899957304" seo="true" ref="index"/>
+    <file name="fangxing1@2x58x53.jpg" crc="236804336" seo="true" ref="index"/>
+    <file name="fangxing1@2x58x53_2x.jpg" crc="4282763218" seo="true" ref="index"/>
+    <file name="juxing1@2x58x53.jpg" crc="184161067" seo="true" ref="index"/>
+    <file name="juxing1@2x58x53_2x.jpg" crc="3790937201" seo="true" ref="index"/>
+    <file name="home@2x27x27.png" crc="78622979" seo="true" ref="index"/>
+    <file name="home@2x27x27_2x.png" crc="4237148746" seo="true" ref="index"/>
+    <file name="works@2x27x27.png" crc="3846794044" seo="true" ref="index"/>
+    <file name="shuohua@2x32x21.png" crc="231955912" seo="true" ref="index"/>
+    <file name="shuohua@2x32x21_2x.png" crc="331165285" seo="true" ref="index"/>
+    <file name="hengxian1@2x300x3.png" crc="244591731" seo="true" ref="index"/>
+    <file name="hengxian1@2x300x3_2x.png" crc="409473867" seo="true" ref="index"/>
+    <file name="xiaonvhai@2x153x211.png" crc="4089737750" seo="true" ref="index"/>
+    <file name="xiaonvhai@2x153x211_2x.png" crc="3962055729" seo="true" ref="index"/>
+    <file name="200- bolang@2x379x41.png" crc="485424470" seo="true" ref="index"/>
+    <file name="changtiao@2x768x60.png" crc="3999636433" seo="true" ref="index"/>
+    <file name="s@2x162x108.png" crc="529039366" seo="true" ref="index"/>
+    <file name="s@2x162x108_2x.png" crc="341960766" seo="true" ref="index"/>
+    <file name="i@2x180x24.png" crc="356032504" seo="true" ref="index"/>
+    <file name="i@2x180x24_2x.png" crc="4252442681" seo="true" ref="index"/>
+    <file name="g@2x166x103.png" crc="475806914" seo="true" ref="index"/>
+    <file name="g@2x166x103_2x.png" crc="4048093479" seo="true" ref="index"/>
+    <file name="n@2x167x99.png" crc="228923508" seo="true" ref="index"/>
+    <file name="d@2x180x103.png" crc="4247646857" seo="true" ref="index"/>
+    <file name="d@2x180x103_2x.png" crc="3986211724" seo="true" ref="index"/>
+    <file name="e@2x142x99.png" crc="3940475306" seo="true" ref="index"/>
+    <file name="e@2x142x99_2x.png" crc="194758978" seo="true" ref="index"/>
+    <file name="tuoyuan2@2x107x61.png" crc="4142833697" seo="true" ref="index"/>
+    <file name="tuoyuan2@2x107x61_2x.png" crc="4203524233" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x127x132.png" crc="181246108" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x127x132_2x.png" crc="4183605911" seo="true" ref="index"/>
+    <file name="hengxian@2x300x4.png" crc="4121253052" seo="true" ref="index"/>
+    <file name="hengxian2@2x300x4.png" crc="4121253052" seo="true" ref="index"/>
+    <file name="dajuxing@2x810x300.jpg" crc="180746792" seo="true" ref="index"/>
+    <file name="tuxiang@2x229x40.png" crc="4146017057" seo="true" ref="index"/>
+    <file name="tuxiang2@2x227x63.png" crc="235251160" seo="true" ref="index"/>
+    <file name="design@2x96x525.png" crc="3899957304" seo="true" ref="index"/>
+    <file name="design@2x96x525_2x.png" crc="3899957304" seo="true" ref="index"/>
+    <file name="home@2x18x18.png" crc="511647098" seo="true" ref="index"/>
+    <file name="home@2x18x18_2x.png" crc="4231518983" seo="true" ref="index"/>
+    <file name="works@2x18x18.png" crc="4100945661" seo="true" ref="index"/>
+    <file name="geren@2x17x17.png" crc="80179790" seo="true" ref="index"/>
+    <file name="geren@2x17x17_2x.png" crc="3916995338" seo="true" ref="index"/>
+    <file name="shuohua@2x24x16.png" crc="3907921122" seo="true" ref="index"/>
+    <file name="shuohua@2x24x16_2x.png" crc="4170333473" seo="true" ref="index"/>
+    <file name="hengxian1@2x180x4.png" crc="3796287928" seo="true" ref="index"/>
+    <file name="xiaonvhai@2x129x177.png" crc="4050593958" seo="true" ref="index"/>
+    <file name="xiaonvhai@2x129x177_2x.png" crc="4178739030" seo="true" ref="index"/>
+    <file name="hengxian3@2x100x3.png" crc="7991379" seo="true" ref="index"/>
+    <file name="200- bolang@2x256x27.png" crc="116031541" seo="true" ref="index"/>
+    <file name="changtiao@2x480x38.png" crc="3837427023" seo="true" ref="index"/>
+    <file name="tuoyuan2@2x88x50.png" crc="3874988082" seo="true" ref="index"/>
+    <file name="tuoyuan2@2x88x50_2x.png" crc="4203524233" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x121x127.png" crc="438373409" seo="true" ref="index"/>
+    <file name="tuoyuan1@2x121x127_2x.png" crc="4183605911" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:zuopinji:geren"/>
+    <file name="changtiao@2x.jpg" crc="475372032" seo="true" ref="zuopinji"/>
+    <file name="ji@2x.png" crc="485337297" seo="true" ref="zuopinji"/>
+    <file name="ji@2x_2x.png" crc="450879555" seo="true" ref="zuopinji"/>
+    <file name="tuoyuan@2x.png" crc="84852762" seo="true" ref="zuopinji"/>
+    <file name="tuoyuan@2x_2x.png" crc="4118116840" seo="true" ref="zuopinji"/>
+    <file name="haidao@2x.png" crc="348694928" seo="true" ref="zuopinji"/>
+    <file name="haidao@2x_2x.png" crc="355438089" seo="true" ref="zuopinji"/>
+    <file name="mote@2x.png" crc="405502193" seo="true" ref="zuopinji"/>
+    <file name="mote@2x_2x.png" crc="14387802" seo="true" ref="zuopinji"/>
+    <file name="paobu@2x.png" crc="325462493" seo="true" ref="zuopinji"/>
+    <file name="paobu@2x_2x.png" crc="268587118" seo="true" ref="zuopinji"/>
+    <file name="loading.gif" crc="3815509949" ref="zuopinji"/>
+    <file name="haidao@2x178x178.png" crc="4036973591" seo="true" ref="zuopinji"/>
+    <file name="haidao@2x178x178_2x.png" crc="355438089" seo="true" ref="zuopinji"/>
+    <file name="mote@2x159x159.png" crc="4049844262" seo="true" ref="zuopinji"/>
+    <file name="mote@2x159x159_2x.png" crc="4280098372" seo="true" ref="zuopinji"/>
+    <file name="haidao@2x177x177.png" crc="213275882" seo="true" ref="zuopinji"/>
+    <file name="haidao@2x177x177_2x.png" crc="3940884445" seo="true" ref="zuopinji"/>
+    <file name="juxing@2x.jpg" crc="4222113063" seo="true" ref="zuopinji"/>
+    <file name="juxing@2x_2x.jpg" crc="4118984167" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x2.jpg" crc="202340810" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x_2x2.jpg" crc="137702979" seo="true" ref="zuopinji"/>
+    <file name="juxing2@2x.jpg" crc="22950717" seo="true" ref="zuopinji"/>
+    <file name="juxing2@2x_2x.jpg" crc="3804211732" seo="true" ref="zuopinji"/>
+    <file name="chounv@2x.png" crc="409157155" seo="true" ref="zuopinji"/>
+    <file name="chounv@2x_2x.png" crc="10519220" seo="true" ref="zuopinji"/>
+    <file name="nahai@2x179x179.png" crc="4050928433" seo="true" ref="zuopinji"/>
+    <file name="nahai@2x179x179_2x.png" crc="408006120" seo="true" ref="zuopinji"/>
+    <file name="tuzi@2x.png" crc="525790967" seo="true" ref="zuopinji"/>
+    <file name="tuzi@2x_2x.png" crc="444442365" seo="true" ref="zuopinji"/>
+    <file name="nahai@2x180x180.png" crc="4050928433" seo="true" ref="zuopinji"/>
+    <file name="nahai@2x180x180_2x.png" crc="4177917052" seo="true" ref="zuopinji"/>
+    <file name="nahai@2x.png" crc="3905596326" seo="true" ref="zuopinji"/>
+    <file name="nahai@2x_2x.png" crc="3955307058" seo="true" ref="zuopinji"/>
+    <file name="shense@2x.jpg" crc="3951736465" seo="true" ref="zuopinji"/>
+    <file name="shense@2x_2x.jpg" crc="3905840041" seo="true" ref="zuopinji"/>
+    <file name="xiaohai@2x.png" crc="3897861655" seo="true" ref="zuopinji:geren"/>
+    <file name="xiaohai@2x_2x.png" crc="4160566826" seo="true" ref="zuopinji:geren"/>
+    <file name="changtiao@2x1280x76.jpg" crc="4132956500" seo="true" ref="zuopinji"/>
+    <file name="shense@2x1280x320.jpg" crc="4251810444" seo="true" ref="zuopinji"/>
+    <file name="shense@2x1280x320_2x.jpg" crc="451476238" seo="true" ref="zuopinji"/>
+    <file name="xiaohai@2x156x213.png" crc="4075999354" seo="true" ref="zuopinji"/>
+    <file name="xiaohai@2x156x213_2x.png" crc="3927344147" seo="true" ref="zuopinji"/>
+    <file name="changtiao@2x1024x76.jpg" crc="3856374155" seo="true" ref="zuopinji"/>
+    <file name="fangxing1@2x68x63.jpg" crc="3854214290" seo="true" ref="zuopinji"/>
+    <file name="fangxing1@2x68x63_2x.jpg" crc="3948571061" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x68x63.jpg" crc="3869650267" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x68x63_2x.jpg" crc="3945489287" seo="true" ref="zuopinji"/>
+    <file name="home@2x30x29.png" crc="3800004020" seo="true" ref="zuopinji"/>
+    <file name="home@2x30x29_2x.png" crc="4200772523" seo="true" ref="zuopinji"/>
+    <file name="works@2x28x28.png" crc="3846794044" seo="true" ref="zuopinji"/>
+    <file name="geren@2x23x24.png" crc="4124540216" seo="true" ref="zuopinji"/>
+    <file name="geren@2x23x24_2x.png" crc="3906693593" seo="true" ref="zuopinji"/>
+    <file name="shuohua@2x36x24.png" crc="4058694338" seo="true" ref="zuopinji"/>
+    <file name="shuohua@2x36x24_2x.png" crc="241971850" seo="true" ref="zuopinji"/>
+    <file name="shense@2x1024x300.jpg" crc="90489117" seo="true" ref="zuopinji"/>
+    <file name="shense@2x1024x300_2x.jpg" crc="511157957" seo="true" ref="zuopinji"/>
+    <file name="xiaohai@2x141x193.png" crc="4250264808" seo="true" ref="zuopinji"/>
+    <file name="xiaohai@2x141x193_2x.png" crc="4278174524" seo="true" ref="zuopinji"/>
+    <file name="changtiao@2x768x76.jpg" crc="227218397" seo="true" ref="zuopinji"/>
+    <file name="fangxing1@2x50x46.jpg" crc="4028531074" seo="true" ref="zuopinji"/>
+    <file name="fangxing1@2x50x46_2x.jpg" crc="4134760689" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x50x46.jpg" crc="251101461" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x50x46_2x.jpg" crc="51231822" seo="true" ref="zuopinji"/>
+    <file name="home@2x22x21.png" crc="4042573109" seo="true" ref="zuopinji"/>
+    <file name="home@2x22x21_2x.png" crc="293660453" seo="true" ref="zuopinji"/>
+    <file name="works@2x20x20.png" crc="144634208" seo="true" ref="zuopinji"/>
+    <file name="geren@2x17x18.png" crc="3824127794" seo="true" ref="zuopinji"/>
+    <file name="geren@2x17x18_2x.png" crc="3916995338" seo="true" ref="zuopinji"/>
+    <file name="shuohua@2x26x18.png" crc="4136043466" seo="true" ref="zuopinji"/>
+    <file name="shuohua@2x26x18_2x.png" crc="280546097" seo="true" ref="zuopinji"/>
+    <file name="shense@2x768x300.jpg" crc="205920005" seo="true" ref="zuopinji"/>
+    <file name="shense@2x768x300_2x.jpg" crc="478596062" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x39x36.jpg" crc="445920388" seo="true" ref="zuopinji"/>
+    <file name="juxing1@2x39x36_2x.jpg" crc="3873173106" seo="true" ref="zuopinji"/>
+    <file name="works@2x16x16.png" crc="312272585" seo="true" ref="zuopinji"/>
+    <file name="fangxing1@2x39x36.jpg" crc="426668390" seo="true" ref="zuopinji"/>
+    <file name="fangxing1@2x39x36_2x.jpg" crc="4117747420" seo="true" ref="zuopinji"/>
+    <file name="shuohua@2x21x14.png" crc="3988220929" seo="true" ref="zuopinji"/>
+    <file name="shuohua@2x21x14_2x.png" crc="3957974798" seo="true" ref="zuopinji"/>
+    <file name="home@2x17x17.png" crc="360600247" seo="true" ref="zuopinji"/>
+    <file name="home@2x17x17_2x.png" crc="463546224" seo="true" ref="zuopinji"/>
+    <file name="geren@2x13x14.png" crc="203137834" seo="true" ref="zuopinji"/>
+    <file name="geren@2x13x14_2x.png" crc="3782201014" seo="true" ref="zuopinji"/>
+    <file name="changtiao@2x480x76.jpg" crc="3768040304" seo="true" ref="zuopinji"/>
+    <file name="shense@2x480x300.jpg" crc="246363118" seo="true" ref="zuopinji"/>
+    <file name="shense@2x480x300_2x.jpg" crc="358694939" seo="true" ref="zuopinji"/>
+    <file name="nanren@2x.png" crc="3885130401" seo="true" ref="geren"/>
+    <file name="nanren@2x_2x.png" crc="3809034652" seo="true" ref="geren"/>
+    <file name="tuoyuan3@2x405x339.png" crc="4164049160" seo="true" ref="geren"/>
+    <file name="tuoyuan@2x2.png" crc="4276767956" seo="true" ref="geren"/>
+    <file name="changtiao@2x2.jpg" crc="475372032" seo="true" ref="geren"/>
+    <file name="changtiao@2x_2x.jpg" crc="475372032" seo="true" ref="geren"/>
+    <file name="juxing@2x2.jpg" crc="4169909826" seo="true" ref="geren"/>
+    <file name="juxing@2x_2x2.jpg" crc="3940009661" seo="true" ref="geren"/>
+    <file name="juxing1@2x3.jpg" crc="4169909826" seo="true" ref="geren"/>
+    <file name="juxing1@2x_2x3.jpg" crc="3940009661" seo="true" ref="geren"/>
+    <file name="juxing2@2x2.jpg" crc="4169909826" seo="true" ref="geren"/>
+    <file name="juxing2@2x_2x2.jpg" crc="3940009661" seo="true" ref="geren"/>
+    <file name="juxing3@2x.jpg" crc="156471948" seo="true" ref="geren"/>
+    <file name="juxing3@2x_2x.jpg" crc="4163028866" seo="true" ref="geren"/>
+    <file name="geren@2x2.png" crc="494922606" seo="true" ref="geren"/>
+    <file name="geren@2x_2x2.png" crc="104471076" seo="true" ref="geren"/>
+    <file name="zhuye@2x.png" crc="530219712" seo="true" ref="geren"/>
+    <file name="zhuye@2x_2x.png" crc="46944200" seo="true" ref="geren"/>
+    <file name="xingxing@2x.png" crc="4051883662" seo="true" ref="geren"/>
+    <file name="xingxing@2x_2x.png" crc="407636720" seo="true" ref="geren"/>
+    <file name="shuohua@2x2.png" crc="95669415" seo="true" ref="geren"/>
+    <file name="shuohua@2x_2x2.png" crc="4286021680" seo="true" ref="geren"/>
+    <file name="wo@2x65x66.png" crc="535525336" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x2.png" crc="4266030879" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x_2x2.png" crc="4266030879" seo="true" ref="geren"/>
+    <file name="qq@2x.png" crc="361762921" seo="true" ref="geren"/>
+    <file name="qq@2x_2x.png" crc="250476374" seo="true" ref="geren"/>
+    <file name="weixin@2x.png" crc="4105734277" seo="true" ref="geren"/>
+    <file name="weixin@2x_2x.png" crc="512654229" seo="true" ref="geren"/>
+    <file name="youjian@2x.png" crc="505761059" seo="true" ref="geren"/>
+    <file name="youjian@2x_2x.png" crc="4046612051" seo="true" ref="geren"/>
+    <file name="tuoyuan@2x349x534.png" crc="3953898175" seo="true" ref="geren"/>
+    <file name="changtiao@2x1280x60.jpg" crc="4132956500" seo="true" ref="geren"/>
+    <file name="wo@2x60x61.png" crc="426617824" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x601x485.png" crc="4266030879" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x601x485_2x.png" crc="4266030879" seo="true" ref="geren"/>
+    <file name="xiaohai@2x170x233.png" crc="4265181003" seo="true" ref="geren"/>
+    <file name="xiaohai@2x170x233_2x.png" crc="140334077" seo="true" ref="geren"/>
+    <file name="tuoyuan3@2x.png" crc="307727272" seo="true" ref="geren"/>
+    <file name="tuoyuan@2x376x503.png" crc="3861609099" seo="true" ref="geren"/>
+    <file name="changtiao@2x1024x48.jpg" crc="3856374155" seo="true" ref="geren"/>
+    <file name="juxing@2x52x48.jpg" crc="158112883" seo="true" ref="geren"/>
+    <file name="juxing@2x52x48_2x.jpg" crc="3863810731" seo="true" ref="geren"/>
+    <file name="juxing1@2x52x48.jpg" crc="158112883" seo="true" ref="geren"/>
+    <file name="juxing1@2x52x48_2x.jpg" crc="3863810731" seo="true" ref="geren"/>
+    <file name="juxing2@2x52x48.jpg" crc="158112883" seo="true" ref="geren"/>
+    <file name="juxing2@2x52x48_2x.jpg" crc="3863810731" seo="true" ref="geren"/>
+    <file name="juxing3@2x52x48.jpg" crc="371456283" seo="true" ref="geren"/>
+    <file name="juxing3@2x52x48_2x.jpg" crc="4093969750" seo="true" ref="geren"/>
+    <file name="geren@2x24x24.png" crc="126129102" seo="true" ref="geren"/>
+    <file name="geren@2x24x24_2x.png" crc="104471076" seo="true" ref="geren"/>
+    <file name="zhuye@2x25x25.png" crc="4235032467" seo="true" ref="geren"/>
+    <file name="zhuye@2x25x25_2x.png" crc="212983943" seo="true" ref="geren"/>
+    <file name="xingxing@2x25x25.png" crc="4259920038" seo="true" ref="geren"/>
+    <file name="xingxing@2x25x25_2x.png" crc="3877833680" seo="true" ref="geren"/>
+    <file name="shuohua@2x37x24.png" crc="62597742" seo="true" ref="geren"/>
+    <file name="shuohua@2x37x24_2x.png" crc="4286021680" seo="true" ref="geren"/>
+    <file name="wo@2x.png" crc="4243263713" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x534x384.png" crc="4266030879" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x534x384_2x.png" crc="4266030879" seo="true" ref="geren"/>
+    <file name="xiaohai@2x157x215.png" crc="390349632" seo="true" ref="geren"/>
+    <file name="xiaohai@2x157x215_2x.png" crc="4084831970" seo="true" ref="geren"/>
+    <file name="nanren@2x431x431.png" crc="387865860" seo="true" ref="geren"/>
+    <file name="nanren@2x431x431_2x.png" crc="97307541" seo="true" ref="geren"/>
+    <file name="tuoyuan3@2x281x235.png" crc="3965402801" seo="true" ref="geren"/>
+    <file name="tuoyuan@2x357x510.png" crc="391022589" seo="true" ref="geren"/>
+    <file name="changtiao@2x768x45.jpg" crc="227218397" seo="true" ref="geren"/>
+    <file name="juxing@2x41x38.jpg" crc="306316755" seo="true" ref="geren"/>
+    <file name="juxing@2x41x38_2x.jpg" crc="484227163" seo="true" ref="geren"/>
+    <file name="juxing1@2x41x38.jpg" crc="306316755" seo="true" ref="geren"/>
+    <file name="juxing1@2x41x38_2x.jpg" crc="484227163" seo="true" ref="geren"/>
+    <file name="juxing2@2x41x38.jpg" crc="306316755" seo="true" ref="geren"/>
+    <file name="juxing2@2x41x38_2x.jpg" crc="484227163" seo="true" ref="geren"/>
+    <file name="juxing3@2x41x38.jpg" crc="3975540575" seo="true" ref="geren"/>
+    <file name="juxing3@2x41x38_2x.jpg" crc="330782324" seo="true" ref="geren"/>
+    <file name="geren@2x14x14.png" crc="3886884000" seo="true" ref="geren"/>
+    <file name="geren@2x14x14_2x.png" crc="3913358228" seo="true" ref="geren"/>
+    <file name="zhuye@2x18x18.png" crc="4188291435" seo="true" ref="geren"/>
+    <file name="zhuye@2x18x18_2x.png" crc="78247847" seo="true" ref="geren"/>
+    <file name="xingxing@2x15x15.png" crc="392819261" seo="true" ref="geren"/>
+    <file name="xingxing@2x15x15_2x.png" crc="4071922658" seo="true" ref="geren"/>
+    <file name="shuohua@2x22x14.png" crc="237228794" seo="true" ref="geren"/>
+    <file name="shuohua@2x22x14_2x.png" crc="4135471306" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x450x349.png" crc="337342106" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x450x349_2x.png" crc="4266030879" seo="true" ref="geren"/>
+    <file name="xiaohai@2x124x169.png" crc="3799522398" seo="true" ref="geren"/>
+    <file name="xiaohai@2x124x169_2x.png" crc="277015600" seo="true" ref="geren"/>
+    <file name="qq@2x26x26.png" crc="178740943" seo="true" ref="geren"/>
+    <file name="qq@2x26x26_2x.png" crc="3984770766" seo="true" ref="geren"/>
+    <file name="weixin@2x25x25.png" crc="3943055734" seo="true" ref="geren"/>
+    <file name="weixin@2x25x25_2x.png" crc="233130733" seo="true" ref="geren"/>
+    <file name="youjian@2x26x26.png" crc="4291400418" seo="true" ref="geren"/>
+    <file name="youjian@2x26x26_2x.png" crc="27010051" seo="true" ref="geren"/>
+    <file name="nanren@2x212x212.png" crc="4268998633" seo="true" ref="geren"/>
+    <file name="nanren@2x212x212_2x.png" crc="492854641" seo="true" ref="geren"/>
+    <file name="changtiao@2x480x68.jpg" crc="3768040304" seo="true" ref="geren"/>
+    <file name="tuoyuan@2x121x207.png" crc="4233938716" seo="true" ref="geren"/>
+    <file name="zhuye@2x27x26.png" crc="140353291" seo="true" ref="geren"/>
+    <file name="zhuye@2x27x26_2x.png" crc="3941477163" seo="true" ref="geren"/>
+    <file name="xingxing@2x26x26.png" crc="3869297066" seo="true" ref="geren"/>
+    <file name="xingxing@2x26x26_2x.png" crc="407636720" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x185x150.png" crc="127432367" seo="true" ref="geren"/>
+    <file name="tuoyuan2@2x185x150_2x.png" crc="468521119" seo="true" ref="geren"/>
+    <file name="xiaohai@2x135x185.png" crc="108397828" seo="true" ref="geren"/>
+    <file name="xiaohai@2x135x185_2x.png" crc="12283406" seo="true" ref="geren"/>
+  </folder>
+  <file name="index.html" crc="327886153" seo="true" mt="1529587929202" redirect="true"/>
+  <file name="zuopinji.html" crc="4230668492" seo="true" mt="1529576903989" redirect="true"/>
+  <file name="geren.html" crc="503252948" seo="true" mt="1529587766414" redirect="true"/>
+</manifest>
